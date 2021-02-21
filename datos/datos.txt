@@ -1,0 +1,6 @@
+Esta es la primera linea del archivo
+Esta es la segunda linea del archivo
+Esta es la tercera linea del archivo
+Esta es la cuarta linea del archivo
+Esta es la primera linea del archivo que se agrega
+Esta es la segunda linea del archivo que se agrega
